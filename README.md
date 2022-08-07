@@ -1,6 +1,6 @@
-## Hi I'm leonardo :fox_face:
+## Hi I'm leonardo 🦁
 
-![Gaboso](https://github.com/levantuan-leo/banner.jpg"Gaboso")
+![Leonardo](https://github.com/levantuan-leo/levantuan-leo/blob/main/banner.jpg)
 
 :computer: _Software Engenieer at [Fitnezz.io](https://github.com/fitnezzio)_ :desert_island:Living in Floripa :brazil:
 
