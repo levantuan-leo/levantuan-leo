@@ -6,7 +6,7 @@
 
 ```javascript
 const thai = {
-  pronouns: "she" | "her",
+  pronouns: "he" | "his",
   code: [Javascript, Typescript, HTML, CSS, Python, Java],
   tools: [React, Redux, Node, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
