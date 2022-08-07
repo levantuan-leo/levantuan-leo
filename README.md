@@ -1,6 +1,6 @@
-## Hi I'm leonardo 🦁
-
 ![Leonardo](https://github.com/levantuan-leo/levantuan-leo/blob/main/banner.jpg)
+
+## Hi I'm leonardo 🦁 - Front-end Developer
 
 :computer: _Software Engenieer at [Fitnezz.io](https://github.com/fitnezzio)_ :desert_island:Living in Floripa :brazil:
 
