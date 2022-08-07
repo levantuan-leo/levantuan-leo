@@ -1,6 +1,6 @@
 ![Leonardo](https://github.com/levantuan-leo/levantuan-leo/blob/main/banner.jpg)
 
-## Hi I'm leonardo 🦁 - Front-end Developer
+## Hi, I'm leonardo 🦁 - Front-end Developer
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -51,7 +51,7 @@ const thai = {
 
 ### :fire: My Stats :
 - [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=levantuan-leo)](https://git.io/streak-stats)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levantuan-leo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levantuan-leo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ⭐️ From [Leonardo](https://github.com/levantuan-leo)
