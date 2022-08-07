@@ -1,4 +1,4 @@
-## Hi I'm Gaboso :fox_face:
+## Hi I'm leonardo :fox_face:
 
 ![Gaboso](https://github.com/levantuan-leo/banner.jpg"Gaboso")
 
