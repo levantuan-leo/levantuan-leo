@@ -1,8 +1,8 @@
 ![Leonardo](https://github.com/levantuan-leo/levantuan-leo/blob/main/banner.jpg)
 
-## Hi, I'm leonardo 🦁 - Full-stack Developer
+# Hi, I'm leonardo 🦁 - Full-stack Developer
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const LE_VAN_TUAN = {
@@ -17,12 +17,12 @@ const LE_VAN_TUAN = {
 }
 ```
 
-###  👩🏾‍💻 My Stack
+##  👩🏾‍💻 My Stack
 
 ### UI/UX designer
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 
-#### Frontend
+### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -32,11 +32,11 @@ const LE_VAN_TUAN = {
 ### Backend
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
-#### Database
+### Database
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-#### Others
+### Others
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -51,7 +51,7 @@ const LE_VAN_TUAN = {
 
 ---
 
-### :fire: My Stats :
+## :fire: My Stats :
 - [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=levantuan-leo)](https://git.io/streak-stats)
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levantuan-leo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
